@@ -1,0 +1,8 @@
+# Files / Folders to ignore
+
+# pyvenv python version 
+.python-version
+
+
+# python virtual environment
+venv
