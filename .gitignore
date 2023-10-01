@@ -9,3 +9,6 @@ venv
 
 # cache file for modules
 __pycache__
+
+# IDE directories + files
+.vscode
